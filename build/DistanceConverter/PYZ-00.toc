@@ -1,0 +1,1190 @@
+('C:\\Users\\Johnny Donza\\Documents\\Python Codes\\Distance '
+ 'Converter\\build\\DistanceConverter\\PYZ-00.pyz',
+ [('os',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\typing.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\string.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\token.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ast.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\socket.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\codeop.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\struct.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gettext.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stat.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\johnny donza\\documents\\python codes\\distance '
+   'converter\\venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Johnny '
+   'Donza\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
